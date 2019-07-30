@@ -1,11 +1,11 @@
 # Http Post Request Width Volley
 HttpRequest class make simple post request using android volley library.
 
-####Require
+##Require
 
 You must implement Response.Listener<String> **and** Response.ErrorListener to your activity. 
 
-####Example
+##Example
 
 ```javascript
 	String  paramString = "test";
@@ -21,7 +21,7 @@ You must implement Response.Listener<String> **and** Response.ErrorListener to y
 ```
 
 
-####HttpRequest Class
+##HttpRequest Class
 ```javascript
 	public class HttpRequest {
 
